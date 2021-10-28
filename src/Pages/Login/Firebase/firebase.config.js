@@ -1,12 +1,12 @@
 console.log(process.env);
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAe_w1W1PUKH0Nntjanj4xS1i6ghFWom1w",
-    authDomain: "genius-car-mechanics-9c214.firebaseapp.com",
-    projectId: "genius-car-mechanics-9c214",
-    storageBucket: "genius-car-mechanics-9c214.appspot.com",
-    messagingSenderId: "150235809480",
-    appId: "1:150235809480:web:689c60af2f112f9a3e07fd"
+    apiKey: "AIzaSyAoJ64HXKBM16dZV6gNTwLWIQ_q0TUQKX0",
+    authDomain: "genius-car-mechanic-client.firebaseapp.com",
+    projectId: "genius-car-mechanic-client",
+    storageBucket: "genius-car-mechanic-client.appspot.com",
+    messagingSenderId: "148705839088",
+    appId: "1:148705839088:web:4eb188eac3d598a5a6bf35"
 };
 
 
